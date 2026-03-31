@@ -1,0 +1,8 @@
+
+One common type of cybercrime is phishing. In this type of attack, a fraudster pretends to be a trusted organization such as a bank or payment service. The victim receives a message or email with a fake link that looks genuine.
+
+When the victim clicks the link, they are redirected to a fake website where they are asked to enter sensitive details such as login credentials, OTP, or bank information. Once the victim enters the details, the attacker gains access to their account and can steal money or personal data.
+
+Phishing usually targets students and people who are not aware of online scams. The consequences can be serious, including financial loss, identity theft, and misuse of personal information.
+
+This cybercrime is increasing rapidly due to lack of awareness. People often trust messages that look official without verifying them. It is important to always check the source before sharing any personal information online.
