@@ -1,6 +1,5 @@
-
+1.EMAIL
 Subject: Request for Extension of Assignment Submission
-
 Dear Sir/Ma’am,
 
 I hope you are doing well. I am writing to request an extension for submitting my assignment due to some personal reasons. I was unable to complete it on time despite my best efforts.
@@ -15,19 +14,24 @@ Yours sincerely,
 Adit Patidar  
 Reg No: 25MIM10078
 
+2.EMAIL
 
 Subject: Application for Summer Internship Opportunity
 
-Dear Sir/Ma’am,
+Sir/Ma'am
 
-I hope this email finds you well. I am a first-year B.Tech student pursuing Integrated M.Tech in Artificial Intelligence, and I am writing to express my interest in a summer internship opportunity at your organization.
+I hope you are doing well. I am in my year of B.Tech and studying Integrated M.Tech in Artificial Intelligence. I am writing to say that I am interested in a summer internship at your organization.
 
-I am eager to learn and gain practical experience in the field of technology and AI. I am hardworking, motivated, and willing to develop new skills.
+I want to learn more about technology and AI. I am a worker and I am motivated to learn new things. I am excited, about the chance to gain experience.
 
-I would be grateful if you could consider my application. I am happy to provide any additional information if required.
+I would appreciate it if you could think about my application. I am happy to give you any information you need.
 
-Thank you for your time and consideration.
+Thank you for taking the time to consider my application.
 
-Yours sincerely,  
-Adit Patidar  
+Yours sincerely
+
+Adit Patidar
+
 Reg No: 25MIM10078
+
+
