@@ -1,1 +1,2 @@
-Project report will be added here
+
+This task includes my HackerRank coding activity and a Google Form quiz. It demonstrates use of online platforms for learning and assessment.
