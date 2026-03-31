@@ -2,3 +2,7 @@
 Task 1 – Infographic
 
 I created an infographic on the topic of digital literacy using Canva. The design highlights key aspects such as the meaning of digital literacy, useful digital tools for students, safe internet practices, and basic email etiquette. I used a simple and structured layout to make the information easy to understand. While creating the infographic, I found it interesting to organize information visually instead of writing long paragraphs. One challenge I faced was selecting the right template and adjusting the content to fit properly within the design. Overall, this task helped me understand how visual content can be used to spread awareness effectively.
+
+Task 2 – Digital Portfolio
+
+In this task, I created and updated my profiles on different digital platforms such as GitHub, LinkedIn, and Kaggle. GitHub is used to manage and showcase coding projects, LinkedIn helps in building a professional network and online presence, and Kaggle is useful for practicing data science and problem-solving skills. Creating these profiles helped me understand the importance of maintaining a professional digital identity. In the coming years, I plan to regularly update these platforms with my projects, skills, and achievements to improve my career opportunities.
